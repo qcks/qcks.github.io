@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Draft - Category - 主页</title>
+    <link>http://localhost:1313/categories/draft/</link>
+    <description>主页</description>
+    <generator>Hugo 0.140.2 &amp; FixIt v0.3.17-07816709</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 01 Apr 2020 18:50:39 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/draft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flutter屏幕适配——开发者无感适配</title>
+      <link>http://localhost:1313/posts/0bb54d3/</link>
+      <pubDate>Wed, 01 Apr 2020 18:50:39 +0800</pubDate>
+      <guid>http://localhost:1313/posts/0bb54d3/</guid>
+      <category domain="http://localhost:1313/categories/draft/">Draft</category>
+      <description>设计稿是多少直接写多少，长得就像设计稿一样。再也不为适配屏幕重复搬砖。</description>
+    </item>
+    <item>
+      <title>一个人的组件化</title>
+      <link>http://localhost:1313/posts/a7416d2/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/a7416d2/</guid>
+      <category domain="http://localhost:1313/categories/draft/">Draft</category>
+      <description>组件化开发可以提高团队长期效率，即使只有一个人。</description>
+    </item>
+    <item>
+      <title>组件化模块化在移动应用开发中</title>
+      <link>http://localhost:1313/posts/583bc6c/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/583bc6c/</guid>
+      <category domain="http://localhost:1313/categories/draft/">Draft</category>
+      <description>在移动应用上由于应用本身与使用者相贴近，日常开发中难免的需求变更朝令夕改、朝三暮四，尤其遇到没啥规范流程的或者形式主义流程</description>
+    </item>
+  </channel>
+</rss>
